@@ -1,6 +1,9 @@
 ; $Id$
 name = Open.Michigan
-description = Tweaks
+description = Tweaks and dependencies
 package = Open Michigan
 core = 6.x
 dependencies[] = openmichigan_content_types
+dependencies[] = openmichigan_views
+dependencies[] = zip_download
+dependencies[] = oer_feed

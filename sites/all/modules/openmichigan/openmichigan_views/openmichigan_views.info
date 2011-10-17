@@ -7,5 +7,7 @@ dependencies[] = course
 dependencies[] = hierarchical_permissions
 dependencies[] = material
 dependencies[] = navigation
+dependencies[] = weight
+dependencies[] = php
 package = Open Michigan
 core = 6.x
